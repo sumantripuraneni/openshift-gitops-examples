@@ -1,0 +1,8 @@
+apiVersion: v2
+appVersion: "4.6"
+description: NetCandyStore deploys a sample CRUD application that uses both Windows
+  Conatianers and Linux containers.
+icon: https://webstockreview.net/images/animated-clipart-candy-17.png
+name: netcandystore
+type: application
+version: 1.0.2
